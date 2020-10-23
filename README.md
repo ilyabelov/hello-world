@@ -1,5 +1,5 @@
 # hello-world
-first project
+first project for GIT flow
 changes from another branch
 new changes
 
